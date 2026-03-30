@@ -15,9 +15,6 @@
   <a href="tel:+201008483559"><img src="https://img.shields.io/badge/📞_+20_100_848_3559-333333?style=for-the-badge" alt="Phone"/></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amer-morsy&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-</p>
 
 ---
 
