@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://amer-morsy.github.io"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://amer-morsy.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://www.linkedin.com/in/amer-morsy-4b64a7103/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:amer.morsy2015@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/amer-morsy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -244,7 +244,7 @@ Al-Azhar University — _2010 – 2015_
 </p>
 
 <p align="center">
-  <a href="https://amer-morsy.github.io">
+  <a href="https://amer-morsy.lovable.app/">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-6C63FF?style=for-the-badge" alt="Portfolio" />
   </a>
 </p>
