@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Amer+Morsy;Senior+Software+Engineer;Full-Stack+Systems+Architect;Building+the+DarbnaNajah+Ecosystem" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Amer+Morsy;Senior+Software+Engineer;Independent+Software+Consultant;12+Enterprise+Systems+Shipped" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <em>Senior Software Engineer at <strong>IT-Bag KSA</strong> — architecting the DarbnaNajah Ecosystem: a unified platform consolidating POS, Marketplace & IoT Fleet Tracking for the Saudi market</em>
+  <em>Senior Software Engineer & <strong>Independent Consultant</strong> — I design and ship production enterprise systems across logistics, ERP, fintech, healthcare, e-commerce & EdTech. <strong>Available for client projects and roles.</strong></em>
 </p>
 
 <p align="center">
@@ -26,17 +26,18 @@
 
 ```yaml
 name: Amer El-Sayed Morsy
-location: Madina, Saudi Arabia 🇸🇦 / Egypt 🇪🇬
-role: Senior Software Engineer @ IT-Bag KSA
-experience: 4+ years
-specialization: High-Performance Data Processing & Scalable System Architecture
-current_project: DarbnaNajah Ecosystem — Unified POS + Marketplace + IoT Platform
-focus: Python (FastAPI) · PHP (Laravel) · Angular · Vue.js · React · Flutter
+location: Remote — Saudi Arabia 🇸🇦 / Egypt 🇪🇬
+role: Senior Software Engineer (Independent / Consultant)
+status: Available for client projects & full-time roles
+experience: 5+ years
+shipped: 12 enterprise systems across 8 business domains
+specialization: Scalable system architecture · real-time & geo-spatial systems · payments
+focus: Python (FastAPI) · PHP (Laravel) · Angular · React · Vue.js · Flutter
 education: BSc Electronics & Communication Engineering — Al-Azhar University
 principles: Clean Code · SOLID Design Patterns · Agile/Scrum
 ```
 
-> Senior Software Engineer with **4+ years** of experience specializing in **high-performance data processing** and **scalable system architecture**. Currently at **IT-Bag KSA**, leading the technical design and development of the **DarbnaNajah Ecosystem** — a unified platform that consolidates **POS systems**, the **Tashalih auto parts marketplace**, and **IoT Fleet Tracking** into a single ecosystem with a centralized **Owner Command Center**. Proven expertise in migrating legacy PHP (Laravel) to modern async architectures using **Python (FastAPI)**, and building complex **marketplaces**, **logistics systems**, and **automated dashboards** for the Saudi market. Committed to **Clean Code** principles and **SOLID** design patterns.
+> Senior Software Engineer and **independent consultant** with **5+ years** building **scalable system architecture**, **real-time** and **geo-spatial** platforms, and **payment-integrated** products. I've designed and shipped **12 production enterprise systems** across **logistics, ERP, fintech, healthcare, e-commerce, and EdTech** — full-stack, from architecture to deployment, with **FastAPI**, **Laravel**, **Angular**, and **Flutter**. Proven with **reverse-auction bidding engines (PostGIS)**, **HLS video streaming**, **3D product builders (Three.js)**, **multi-tenant SaaS**, and **6+ payment gateways** including **ZATCA Phase 2** for the Saudi market. Committed to **Clean Code** and **SOLID**.
 
 ---
 
@@ -51,8 +52,7 @@ principles: Clean Code · SOLID Design Patterns · Agile/Scrum
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
     </td>
   </tr>
   <tr>
@@ -61,53 +61,52 @@ principles: Clean Code · SOLID Design Patterns · Agile/Scrum
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" />
       <img src="https://img.shields.io/badge/RESTful_APIs-009688?style=flat-square&logo=fastapi&logoColor=white" />
       <img src="https://img.shields.io/badge/Microservices-6DB33F?style=flat-square&logo=spring&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🎨 Front-End</strong></td>
+    <td align="center"><strong>🎨 Front-End & Mobile</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Angular_17+-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-      <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🗄️ Database & Cache</strong></td>
+    <td align="center"><strong>🗄️ Data & Cache</strong></td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostGIS-008000?style=flat-square&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-      <img src="https://img.shields.io/badge/DB_Design_&_Optimization-336791?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     </td>
   </tr>
   <tr>
     <td align="center"><strong>🚀 DevOps & Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
       <img src="https://img.shields.io/badge/AWS_(EC2,_S3)-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-      <img src="https://img.shields.io/badge/Linux_(Debian/Ubuntu)-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
       <img src="https://img.shields.io/badge/HLS_Streaming-FF0000?style=flat-square&logo=youtube&logoColor=white" />
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>🏛️ Standards</strong></td>
+    <td align="center"><strong>💳 Integrations</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/ZATCA_Integration-006633?style=flat-square&logo=gov&logoColor=white" />
-      <img src="https://img.shields.io/badge/Paymob_Integration-1A1A2E?style=flat-square&logo=stripe&logoColor=white" />
-      <img src="https://img.shields.io/badge/Odoo_API-714B67?style=flat-square&logo=odoo&logoColor=white" />
-      <img src="https://img.shields.io/badge/Traccar_IoT-1A73E8?style=flat-square&logo=googlemaps&logoColor=white" />
-      <img src="https://img.shields.io/badge/Agile/Scrum-009688?style=flat-square&logo=scrumalliance&logoColor=white" />
-      <img src="https://img.shields.io/badge/Clean_Code-00ADD8?style=flat-square&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/SOLID_Principles-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/ZATCA_Phase_2-006633?style=flat-square&logo=gov&logoColor=white" />
+      <img src="https://img.shields.io/badge/Paymob-1A1A2E?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Moyasar-00C2A8?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -118,129 +117,119 @@ principles: Clean Code · SOLID Design Patterns · Agile/Scrum
 
 | Period | Role | Company | Location |
 |--------|------|---------|----------|
-| **May 2025 – Present** | Senior Software Engineer | **IT-Bag KSA** | Madina, KSA 🇸🇦 |
-| **Mar 2023 – Mar 2024** | Technical Manager (Offer) / Full Stack Developer | **PRO‑INT** | Remote, KSA 🇸🇦 |
+| **May 2026 – Present** | Independent Senior Software Engineer / Consultant | **Freelance** | Remote — KSA 🇸🇦 / Egypt 🇪🇬 |
+| **May 2025 – Apr 2026** | Senior Software Engineer | **IT-Bag KSA** | Madina, KSA 🇸🇦 |
+| **Mar 2023 – Mar 2024** | Technical Manager / Full Stack Developer | **PRO‑INT** | Remote, KSA 🇸🇦 |
 | **Feb 2020 – Apr 2023** | Web Developer | **ADMINS‑Egypt** | Cairo, Egypt 🇪🇬 |
 
 <details>
 <summary>📋 <strong>Click to expand details</strong></summary>
 
-### 🏢 IT-Bag KSA — Senior Software Engineer _(May 2025 – Present)_
-- Architecting the **DarbnaNajah Ecosystem** — a unified platform consolidating **ITBAG POS**, **Tashalih Marketplace**, and **IoT Fleet Tracking** into a single multi-product SaaS
-- Designing a **microservices architecture** with FastAPI, PostgreSQL (4 unified schemas), Redis, and Nginx API Gateway
-- Building the **Owner Command Center** — a cross-product executive dashboard with real-time KPIs, fleet live map (Mapbox GL), and revenue analytics
-- Implementing **SSO (JWT)**, dynamic **RBAC**, **ZATCA-compliant invoicing**, and **Odoo API Bridge** for automated accounting
-- Engineering the **IoT backend service** with Traccar integration, geofencing, operating-cost calculators, and WebSocket real-time tracking
-- Developing **bundle pricing engine** and subscription management across all products
+### 🧑‍💻 Independent Consultant — Senior Software Engineer _(May 2026 – Present)_
+- Design and deliver **production enterprise systems** for clients across logistics, ERP, fintech, healthcare, and e-commerce
+- **Full-stack delivery** with FastAPI, Laravel, Angular, and Flutter — from architecture to deployment
+- Build **real-time**, **geo-spatial (PostGIS)** and **payment-integrated** platforms (Paymob, Moyasar, Stripe, ZATCA Phase 2)
+- Engagements span backend APIs, full SaaS platforms, and mobile apps
 
-### 🏢 PRO‑INT — Technical Manager (Offer) / Full Stack Developer _(Mar 2023 – Mar 2024)_
+### 🏢 IT-Bag KSA — Senior Software Engineer _(May 2025 – Apr 2026)_
+- Led the **DarbnaNajah Ecosystem** — a unified platform consolidating POS, marketplace, and IoT fleet tracking into a single multi-product SaaS
+- Designed a **microservices architecture** with FastAPI, PostgreSQL (4 unified schemas), Redis, and Nginx API Gateway
+- Built the **Owner Command Center** — a cross-product executive dashboard with real-time KPIs and revenue analytics
+- Implemented **SSO (JWT)**, dynamic **RBAC**, **ZATCA-compliant invoicing**, and an **Odoo API Bridge** for automated accounting
+
+### 🏢 PRO‑INT — Technical Manager / Full Stack Developer _(Mar 2023 – Mar 2024)_
 - Built and deployed high-performance web applications: **Abnayiy**, **Nobala-center**, and **I-learn**
 - Managed deployment pipelines using **AWS** and monitored system health to ensure **99.9% uptime**
-- Handled full-stack development ensuring high performance and scalability
 
 ### 🏢 ADMINS‑Egypt — Web Developer _(Feb 2020 – Apr 2023)_
 - Maintained and scaled multiple enterprise systems including **ABL**, **AMS**, and **HRS**
 - Modernized UI/UX components using **Vue.js**, improving user engagement and operational efficiency
-- Worked with PHP, Laravel, Vue.js, and various CMS platforms
-
-### 🔧 Earlier Roles
-- **Web Dev Intern** — SONAMAK (2020) — Web development using HTML, CSS, JS, PHP
-- **IT Engineer** — Egyptian Navy Forces (2016–2018) — IT infrastructure and security management
 
 </details>
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project — Wasla _(AgriTech Logistics Marketplace)_
 
-### 🌐 Current Focus — DarbnaNajah Ecosystem _(IT-Bag KSA)_
-
-> **Transforming IT-Bag from a POS reseller into a Software Company** — a unified multi-product SaaS platform targeting the Saudi SME market.
+> A real-time logistics marketplace that connects **providers, buyers, and couriers** through a competitive **reverse-auction bidding engine** with **PostGIS geo-discovery** — across web and mobile.
 
 <div align="center">
 
-| Product | Tech Stack | Description |
-|---------|------------|-------------|
-| 💳 **ITBAG POS** | `FastAPI` `Laravel` `Angular 19` `PostgreSQL` `Redis` | Cloud-based **Point of Sale** with ZATCA Phase 2 compliance, Odoo API bridge for automated accounting, and subscription-based pricing — _Saudi Market_ |
-| 🔧 **Tashalih Marketplace** | `FastAPI` `Angular 19` `PostgreSQL` `Redis` `Docker` | Full-stack **auto parts marketplace** with multi-tier subscriptions, complex shipping weight logic, multi-tenant white-label engine, WebSocket notifications, and RBAC — _Saudi Market_ |
-| 📡 **IoT Fleet Tracking** | `FastAPI` `Traccar` `Mapbox GL` `WebSocket` `PostgreSQL` | Real-time **GPS fleet & asset tracking** with geofencing, operating-cost calculators, Unifonic SMS/WhatsApp alerts, and automated billing from device hours — _Saudi Market_ |
-| 👑 **Owner Command Center** | `Angular 19` `Mapbox GL` `WebSocket` `Chart.js` | Cross-product **executive dashboard** — unified KPIs, live fleet map, revenue analytics, subscription health, and real-time activity feed across all products |
+| Pillar | Tech | What it does |
+|--------|------|--------------|
+| 🔁 **Real-time Bidding** | `FastAPI` `WebSocket` `Redis` | Each order opens a `DeliveryTask`; nearby couriers bid (price + ETA) live, the best bid wins, losing bids auto-reject |
+| 🗺️ **Geo Discovery** | `PostGIS` `PostgreSQL 16` | `ST_DWithin` map-based product discovery by distance, category & price |
+| 📱 **Web + Mobile** | `Angular 20` `Flutter` | Angular admin dashboard + Flutter app (Clean Architecture / BLoC) for providers, buyers & couriers |
+| ☁️ **Production-ready** | `Docker` `AWS S3` `SQLAlchemy` | Async backend, S3 storage, Redis pub/sub, fully Dockerized |
 
 </div>
 
 <details>
-<summary>🏗️ <strong>DarbnaNajah Ecosystem — Architecture Details</strong></summary>
+<summary>🏗️ <strong>Wasla — Architecture Details</strong></summary>
 
 ```
-darbnajah-ecosystem/
-├── services/
-│   ├── auth-service/         # FastAPI — SSO + JWT + RBAC
-│   ├── tashalih-service/     # FastAPI — Marketplace logic
-│   ├── itbag-service/        # FastAPI — POS + ZATCA
-│   ├── iot-service/          # FastAPI — Fleet tracking + Traccar sync
-│   └── reports-service/      # FastAPI — Cross-product analytics
-├── frontends/
-│   ├── owner-command-center/ # Angular 19 — Executive dashboard
-│   ├── tashalih-portal/      # Angular 19 — Customer & Supplier portal
-│   ├── tashalih-dashboard/   # Angular 19 — Admin dashboard
-│   ├── itbag-website/        # Laravel — Public-facing website
-│   └── fleet-map/            # Mapbox GL — Live tracking map
-├── infrastructure/
-│   ├── nginx/                # API Gateway — route /auth, /tashalih, /itbag, /iot, /owner
-│   ├── traccar/              # Self-hosted GPS server (Java)
-│   └── docker-compose.yml    # PostgreSQL 16 + Redis 7 + PgAdmin
-└── database/
-    └── darbnajah_db/         # PostgreSQL 16 — 4 Unified Schemas
-        ├── core.*             # SSO users, tenants, roles, subscriptions, billing
-        ├── itbag.*            # Products, POS orders, solutions, packs, brands
-        ├── tashalih.*         # Orders, quotes, categories, tenant configs
-        └── iot.*              # Devices, positions, events, geofences, projects, costs
+wasla/
+├── service/          # Python FastAPI — async core API
+│   ├── src/
+│   │   ├── api/      # Providers, buyers, couriers, bidding, orders
+│   │   ├── models/   # SQLAlchemy 2.0 async models (+ PostGIS geometry)
+│   │   ├── services/ # Bidding engine, geo-discovery, notifications
+│   │   └── core/     # Auth (JWT + refresh), i18n, websockets
+│   └── alembic/      # Database migrations
+├── dashboard/        # Angular 20 (Signals) — admin & ops
+└── mobile/           # Flutter (BLoC + get_it) — provider / buyer / courier apps
 ```
 
-**Platform Architecture:**
-- 🔐 **SSO (JWT)** — Single identity across all products with dynamic RBAC
-- 💳 **Bundle Pricing Engine** — Enterprise Bundle (POS + Marketplace + IoT) at 25% discount
-- 🏢 **Multi-tenant** — Organizations get `org.tashalih.sa` subdomains
-- 📡 **IoT Pipeline** — Traccar → WebSocket/REST → Rules Engine → Cost Calculator → Odoo
-- 🔔 **Unifonic Notifications** — SMS + WhatsApp across all products
-- 🌍 **Bilingual** — Arabic RTL / English
-- 🐳 **Docker containerized** — PostgreSQL 16, Redis 7, Nginx, Traccar
-- 📊 **Cross-product synergies** — Tashalih ↔ IoT (shipment tracking), ITBAG ↔ IoT (POS device monitoring)
-
-**Execution Roadmap:**
-- ✅ Phase 1: Foundation — Unified DB, Auth Service, API Gateway
-- 🔄 Phase 2: IoT MVP — Traccar, device sync, cost calculator
-- ⏳ Phase 3: Owner Command Center — Dashboard, fleet map, real-time feed
-- ⏳ Phase 4: Deep Integration — Bundle subscriptions, cross-product IoT links
+**Key Features:**
+- 🔁 Reverse-auction delivery with WebSocket bid updates and deadline auto-expiry (APScheduler)
+- 🗺️ PostGIS `ST_DWithin` geo-queries for location-based product discovery
+- 👥 Multi-role ecosystem (providers · buyers · couriers · admins) with isolated data
+- 🔐 JWT auth with refresh rotation, Redis pub/sub, AWS S3 storage
+- 🐳 Docker Compose with health checks
 
 </details>
 
 ---
 
-### 🌟 Previous Projects
+## 📦 12 Enterprise Projects
 
 <div align="center">
 
-| Project | Tech Stack | Description |
-|---------|------------|-------------|
-| 🎓 **Online Courses Marketplace** | `FastAPI` `Angular 17` `HLS` `Paymob` `PostgreSQL` | Scalable marketplace with **HLS video streaming** for secure content delivery, **Paymob payment gateway** integration, and custom instructor analytics dashboard — _Egypt Market_ |
-| 📊 **Facility Management KPI Dashboard** | `Python` `FastAPI` `PostgreSQL` | 3-tier data aggregation system **(Data → Summary → Dashboard)** resolving critical logic errors and ensuring **100% KPI traceability** |
-| 🎪 **Zoya ERP** | `Python` `FastAPI` `Angular` `PostgreSQL` `Redis` `Docker` `AWS S3` | **Exhibition booth management** ERP with JWT auth, dynamic RBAC with permission caching, bilingual support (AR/EN), repository pattern architecture |
-
-</div>
-
-### 📦 Open Source & Other Projects
-
-<div align="center">
-
+### 🚚 Logistics
 | Project | Tech | Description |
 |---------|------|-------------|
-| 🏪 [**E‑commerce Stores**](https://github.com/Amer-Morsy/ecommerce-stores) | `HTML` `CSS` `JS` | Full-featured e-commerce store front-end |
-| 🏥 [**Hospitals**](https://github.com/Amer-Morsy/hospitals) | `JavaScript` | Hospital management system |
-| 📢 [**Advertising Management**](https://github.com/Amer-Morsy/advertising-management-system) | `Vue.js` | Advertising management system |
-| 📝 [**Learning Exams System**](https://github.com/Amer-Morsy/learning-exams-system) | `Vue.js` | Online learning and examination platform |
-| 🎨 [**Multipurpose Demos**](https://github.com/Amer-Morsy/multipurpose-demos) | `Laravel` `Blade` | Collection of multipurpose web demos |
-| 🛒 [**Store E‑commerce**](https://github.com/Amer-Morsy/store-ecommerce) | `HTML` `CSS` | Online store template |
+| **Wasla** ⭐ | `FastAPI` `Angular 20` `Flutter` `PostGIS` `Redis` | AgriTech logistics marketplace with real-time reverse-auction bidding & geo-discovery |
+| **AlJawab Taxi** | `Flutter` `Laravel` `Vue` `Docker` `Nginx` | Ride-hailing & logistics platform — driver/rider app, customer portal, admin dashboard |
+
+### 🏢 ERP & Enterprise
+| Project | Tech | Description |
+|---------|------|-------------|
+| **Zoya ERP** | `FastAPI` `Angular 20` `Three.js` `Redis` `Moyasar` | Exhibition booth ERP with a 3D booth builder & multi-partner supply chain |
+| **ERP Suite** | `Laravel 12` `MySQL` `Stripe` `OpenAI` `DOMPDF` | Modular enterprise suite — HR, sales, inventory, accounting, 6+ payment gateways |
+
+### 🛒 Retail & Commerce
+| Project | Tech | Description |
+|---------|------|-------------|
+| **POS SaaS** | `Laravel 11` `Livewire` `MySQL` | Multi-tenant Point-of-Sale with inventory, split payments, day-end reports (194 tests) |
+| **E-Commerce Stores** | `Laravel 11` `Pusher` `Laravel Echo` | Multi-store platform with real-time order notifications & multi-language storefront |
+
+### 🏥 Healthcare
+| Project | Tech | Description |
+|---------|------|-------------|
+| **Hospitals** | `Laravel 11` `Livewire` `Pusher` | Patients, appointments & records with real-time updates and RBAC |
+| **Clinic Reception** | `Flutter` `Firebase` `Riverpod` | Mobile patient-queue management with real-time Firestore sync & offline support |
+
+### 🧾 Fintech / Tax
+| Project | Tech | Description |
+|---------|------|-------------|
+| **ZATCA Integrator** | `Laravel 12` `Sanctum` `ZATCA Phase 2` | Saudi e-invoicing — invoice signing, QR, and API submission |
+| **ZATCA Module** | `Laravel 12` `Composer Pkg` | Reusable drop-in ZATCA Phase 2 compliance package for any Laravel app |
+
+### 🎓 EdTech & 🛠️ Platform
+| Project | Tech | Description |
+|---------|------|-------------|
+| **LMS** | `FastAPI` `Angular` `HLS` `FFmpeg` `Paymob` | Courses marketplace with HLS streaming, payments & 80/20 instructor payouts |
+| **Tashalih** | `FastAPI` `Angular 21` `Moyasar` `Unifonic` | Multi-portal service platform with real-time WebSocket updates |
 
 </div>
 
@@ -249,49 +238,35 @@ darbnajah-ecosystem/
 
 ```
 zoya-sys/
-├── zoya-service/     # Python FastAPI — Core API
-│   ├── src/
-│   │   ├── api/v1/   # Versioned REST routes
-│   │   ├── models/   # SQLAlchemy models
-│   │   ├── services/ # Business logic
-│   │   └── core/     # Security, authorization, i18n
-│   └── alembic/      # Database migrations
-├── zoya-portal/      # Angular 20 — Public-facing portal
-└── zoya-dashboard/   # Angular 20 — Admin management dashboard
+├── zoya-service/           # Python FastAPI — Core API (orders, supply chain, payments)
+├── zoya-dashboard/         # Angular 20 — Admin / internal team
+├── zoya-partner-dashboard/ # Angular 20 — Manufacturing / renting / supplying partners
+└── zoya-portal/            # Angular 20 — Client-facing 3D booth builder (Three.js)
 ```
 
 **Key Features:**
-- 🔐 JWT Authentication (access + refresh tokens)
-- 🛡️ Dynamic RBAC with Redis permission caching
-- 🌐 Bilingual support (Arabic & English)
-- 📦 Clean architecture — Repository pattern + Service layer
-- 🐳 Docker containerized (PostgreSQL + Redis + PgAdmin)
-- ☁️ AWS S3 for object storage
+- 🔐 JWT auth + dynamic RBAC with Redis permission caching
+- 🧱 Multi-channel supply chain — manufacturing, supplying & renting order lifecycles
+- 🎨 Three.js 3D booth builder with persisted configuration snapshots
+- 💳 Moyasar payments + WeasyPrint invoice PDFs
+- 🌐 Bilingual (AR/EN) · ☁️ AWS S3 · 🐳 Dockerized · ⏰ APScheduler background jobs
 
 </details>
 
 <details>
-<summary>🏗️ <strong>Online Courses Marketplace — Architecture Details</strong></summary>
+<summary>🏗️ <strong>LMS — Online Courses Marketplace — Architecture Details</strong></summary>
 
 ```
-courses-marketplace/
-├── backend/          # Python FastAPI — REST API
-│   ├── src/
-│   │   ├── api/      # Course, enrollment, payment endpoints
-│   │   ├── models/   # User, Course, Enrollment, Payment models
-│   │   ├── services/ # Business logic (streaming, payments)
-│   │   └── core/     # Auth, middleware, HLS config
-│   └── alembic/      # Database migrations
-├── frontend/         # Angular 17 — Student & Instructor portal
-└── streaming/        # HLS video streaming service
+lms-sys/
+├── backend/          # Python FastAPI — REST API (courses, payments, payouts)
+├── frontend/         # Angular — Student & Instructor portal (AR/EN, RTL)
+└── streaming/        # HLS video streaming via FFmpeg transcoding
 ```
 
 **Key Features:**
-- 🎥 HLS video streaming integration for secure content delivery
-- 💳 Paymob payment gateway integration
-- 📊 Custom dashboard for instructor analytics
-- 🔐 Role-based access (Student / Instructor / Admin)
-- 📱 Responsive design for all devices
+- 🎥 HLS video streaming with FFmpeg transcoding for secure delivery
+- 💳 Paymob (Card / Fawry / Vodafone Cash / InstaPay) + 80/20 instructor payouts
+- 🔐 Role-based access (Student / Instructor / Admin) · 🔔 Redis-backed notifications
 
 </details>
 
@@ -306,22 +281,6 @@ courses-marketplace/
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amer-morsy&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amer-morsy&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="Trophies" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amer-morsy&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -342,14 +301,8 @@ Al-Azhar University — _2010 – 2015_
   <a href="mailto:amer.morsy2015@gmail.com"><img src="https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge" alt="Email" /></a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <i>💡 "I don't sell code — I build systems that serve you for years."</i>
 </p>
 
 <p align="center">
